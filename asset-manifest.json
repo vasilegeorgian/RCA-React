@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2a30bdf5.chunk.css",
+    "main.js": "/static/js/main.0e5170cf.chunk.js",
+    "main.js.map": "/static/js/main.0e5170cf.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.e90f8380.js",
+    "runtime-main.js.map": "/static/js/runtime-main.e90f8380.js.map",
+    "static/js/2.d6f97e07.chunk.js": "/static/js/2.d6f97e07.chunk.js",
+    "static/js/2.d6f97e07.chunk.js.map": "/static/js/2.d6f97e07.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.2a30bdf5.chunk.css.map": "/static/css/main.2a30bdf5.chunk.css.map",
+    "static/js/2.d6f97e07.chunk.js.LICENSE.txt": "/static/js/2.d6f97e07.chunk.js.LICENSE.txt",
+    "static/media/arrow-back.39940f16.svg": "/static/media/arrow-back.39940f16.svg",
+    "static/media/chevron-down.6e2c90ee.svg": "/static/media/chevron-down.6e2c90ee.svg",
+    "static/media/close-outline.a22b61b1.svg": "/static/media/close-outline.a22b61b1.svg",
+    "static/media/logo-github.bdd8bb6b.svg": "/static/media/logo-github.bdd8bb6b.svg",
+    "static/media/logo-twitter.da0be46b.svg": "/static/media/logo-twitter.da0be46b.svg",
+    "static/media/moon-filled.b23d5034.svg": "/static/media/moon-filled.b23d5034.svg",
+    "static/media/moon.1d93a65e.svg": "/static/media/moon.1d93a65e.svg",
+    "static/media/search.637c6b3c.svg": "/static/media/search.637c6b3c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e90f8380.js",
+    "static/js/2.d6f97e07.chunk.js",
+    "static/css/main.2a30bdf5.chunk.css",
+    "static/js/main.0e5170cf.chunk.js"
+  ]
+}
